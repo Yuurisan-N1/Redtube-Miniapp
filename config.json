@@ -1,4 +1,9 @@
 {
+  "tasks": {
+    "channel_join": {
+      "enabled": false
+    }
+  },
   "settings": {
     "sleep_seconds": 3600
   }
